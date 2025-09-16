@@ -14,9 +14,12 @@
 
 ### a. Penjumlahan & Pengurangan
 
+Rumus kuadrat:
+$$ x = \frac{-b \pm \sqrt{b^2-4ac}}{2a} $$
+
 - Hanya bisa untuk suku **sejenis**.
 - Contoh:
-  - $$3x + 7x = 10x$$
+  - $$ 3x + 7x = 10x $$
   - `(2x + 3y) - (x - 5y) = x + 8y`
 
 ### b. Perkalian (distributif)
